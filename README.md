@@ -3,4 +3,4 @@ Die IsyFact ist eine Software Factory für den Bau von komplexen IT-Anwendungsla
 
 Die Standards und Hilfsmittel der IsyFact umfassen: Blaupausen, Bausteine, eine Betriebsplattform, methodische Vorgaben zum Software-Engineering und Entwicklungswerkzeuge.
 
-In Kürze finden Sie hier die Dokumente und Sourcen der IsyFact-Standards.
+In diesem Repository finden Sie die Dokumente der IsyFact-Standards. In den anderen Repositories liegen die zugehörigen Sourcen und eine Muster-/Vorlageanwendung, die basierend auf den IsyFact-Standards entwickelt ist.
